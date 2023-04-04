@@ -1,6 +1,6 @@
-## Welcome to ExTalenta's GitHub Organization! 👋
+![ExTalenta Logo](https://user-images.githubusercontent.com/9976294/229732770-9ba5b37d-0850-4f55-a383-037a528829c7.png)
 
-![ExTalenta Logo](./assets/extalenta_logo.png)
+## Welcome to ExTalenta's GitHub Organization! 👋
 
 🌐 [ExTalenta.com](https://www.extalenta.com/)
 
